@@ -1,7 +1,6 @@
 # 🍽️ FoodBridge
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+
 
 > **Connecting food donors with NGOs to reduce food waste and fight hunger.**
 
