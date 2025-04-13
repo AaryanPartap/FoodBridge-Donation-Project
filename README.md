@@ -9,12 +9,7 @@ FoodBridge is a web platform that connects restaurants and individuals with surp
 
 ---
 
-## 🌐 Live Demo
 
-🚀 [Frontend Hosted on Netlify](https://your-frontend-url.netlify.app)  
-🔗 [Backend Hosted on Render](https://your-backend-url.onrender.com)
-
----
 
 ## 🛠️ Tech Stack
 
